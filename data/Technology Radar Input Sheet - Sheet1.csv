@@ -1,0 +1,12 @@
+Item,Quadrant,Ring,Active,Moved,Link,Quadrant-json,Ring-json,Active-json,Moved-json
+Java,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://www.java.com/en/,0,0,TRUE,0
+Angular2,0 - Languages,3 - HOLD,1 - Yes,-1 - Moved Out,https://angular.io/,0,3,TRUE,-1
+React,0 - Languages,0 - ADOPT,1 - Yes, 1 - Moved In,https://react.dev/,0,0,TRUE,1
+Vue,0 - Languages,2 - ASSESS,1 - Yes, 0 - Not Moved,https://vuejs.org/,0,2,TRUE,0
+Python,0 - Languages,1 - TRIAL,1 - Yes, 0 - Not Moved,https://www.python.org/,0,1,TRUE,0
+C# .NET,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/,0,0,TRUE,0
+Visual Basic .NET,0 - Languages,3 - HOLD,1 - Yes, 0 - Not Moved,https://learn.microsoft.com/en-us/dotnet/visual-basic/,0,3,TRUE,0
+Visual Basic 6,0 - Languages,3 - HOLD,1 - Yes, 0 - Not Moved,https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation,0,3,TRUE,0
+SQL,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://en.wikipedia.org/wiki/SQL,0,0,TRUE,0
+Gradle,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://gradle.org/,0,0,TRUE,0
+Scala,0 - Languages,3 - HOLD,1 - Yes,-1 - Moved Out,https://www.scala-lang.org/,0,3,TRUE,-1
