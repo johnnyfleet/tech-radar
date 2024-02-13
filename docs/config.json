@@ -1,93 +1,551 @@
 {
-  "date": "2024.01",
+  "date": "2024.02",
   "entries": [
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "Java",
+      "label": "Source code management - Revision control",
       "active": true,
-      "moved": 0,
-      "link": "https://www.java.com/en/"
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Angular2",
-      "active": true,
-      "moved": -1,
-      "link": "https://angular.io/"
+      "moved": 1
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "React",
+      "label": "Source code management - Branching Strategy",
       "active": true,
-      "moved": 1,
-      "link": "https://react.dev/"
+      "moved": 1
     },
     {
       "quadrant": 0,
-      "ring": 2,
-      "label": "Vue",
+      "ring": 0,
+      "label": "Source code management - Pull-request checklist",
       "active": true,
-      "moved": 0,
-      "link": "https://vuejs.org/"
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Source code management - Peer review",
+      "active": true,
+      "moved": -1
     },
     {
       "quadrant": 0,
       "ring": 1,
-      "label": "Python",
+      "label": "Source code management - Linting & style checking",
       "active": true,
-      "moved": 0,
-      "link": "https://www.python.org/"
+      "moved": 1
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "C# .NET",
+      "label": "Source code management - Static code analysis",
       "active": true,
-      "moved": 0,
-      "link": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Visual Basic .NET",
-      "active": true,
-      "moved": 0,
-      "link": "https://learn.microsoft.com/en-us/dotnet/visual-basic/"
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Visual Basic 6",
-      "active": true,
-      "moved": 0,
-      "link": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation"
+      "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "SQL",
+      "label": "Source code management - Dependency management",
       "active": true,
-      "moved": 0,
-      "link": "https://en.wikipedia.org/wiki/SQL"
+      "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "Gradle",
+      "label": "Source code management - Library management",
       "active": true,
-      "moved": 0,
-      "link": "https://gradle.org/"
+      "moved": 0
     },
     {
       "quadrant": 0,
-      "ring": 3,
-      "label": "Scala",
+      "ring": 2,
+      "label": "Source code management - License auditing",
       "active": true,
-      "moved": -1,
-      "link": "https://www.scala-lang.org/"
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Database automation - Backup and restore",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Database automation - Test data management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Database automation - Data governance",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Database automation - Archiving",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Database automation - Storage management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Database automation - Migrations",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Continuous integration - Code merging",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Continuous integration - Automated builds",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Continuous integration - Build management & reporting",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Continuous integration - Deployment management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Continuous integration - Artifact management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Continuous integration - Packaging",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Automated testing - Mocking strategy",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Automated testing - Unit testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Automated testing - Functional testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Automated testing - Integration testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Automated testing - End-to-end testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Automated testing - Performance testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Automated testing - Security testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Configuration management - Cloud provisioning (IaC)",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Configuration management - Desired state configuration",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Configuration management - Secret management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Configuration management - Scale plans",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Configuration management - Service registry / discoverability",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Configuration management - Service configuration",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Continuous delivery - Immutable artifact pipelines",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Continuous delivery - Issue tracking",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Continuous delivery - Environment management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Continuous delivery - Release management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Continuous delivery - Feature flags",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 2,
+      "label": "Continuous delivery - Automation pipelines",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Security - Authentication, authorisation and accounting",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Security - Confidentiality, integrity, availability",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Security - External security testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Security - Identity and access management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Security - Cloud service controls",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Security - Code scanning",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Security - Dependency vulnerability scanning",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Security - Automated security testing",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Security - Engineer training",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Monitoring - Application performance monitoring",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Monitoring - Security information and event monitoring",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Monitoring - Log collection / aggregation",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Monitoring - Alerting",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Monitoring - Dashboarding",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Monitoring - Operational reporting",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Monitoring - Queries / investigations",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Monitoring - Real-time telemetry",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Monitoring - Recovery tracking",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Analytics - Management reporting",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Analytics - Operational insights",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Analytics - Trend identification",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Analytics - Log analysis",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Analytics - Root-cause analysis",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Analytics - Productivity indicators",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Analytics - Cost tracking and allocation",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Analytics - SLA/SLO compliance",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Analytics - Metrics",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Hosting platform - Immutable infrastructure",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Hosting platform - Continuous upgrades",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Hosting platform - Health checks",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Hosting platform - Auto-scaling",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Hosting platform - Quality of Service",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Hosting platform - Network management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Hosting platform - Failure detection and response",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Hosting platform - Storage management",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Hosting platform - Workflow",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Hosting platform - Intrustion detection and prevention",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Hosting platform - Data loss prevention",
+      "active": true,
+      "moved": 0
     }
   ]
 }

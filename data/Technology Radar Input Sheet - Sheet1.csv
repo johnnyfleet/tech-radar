@@ -1,12 +1,79 @@
 Item,Quadrant,Ring,Active,Moved,Link,Quadrant-json,Ring-json,Active-json,Moved-json
-Java,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://www.java.com/en/,0,0,TRUE,0
-Angular2,0 - Languages,3 - HOLD,1 - Yes,-1 - Moved Out,https://angular.io/,0,3,TRUE,-1
-React,0 - Languages,0 - ADOPT,1 - Yes, 1 - Moved In,https://react.dev/,0,0,TRUE,1
-Vue,0 - Languages,2 - ASSESS,1 - Yes, 0 - Not Moved,https://vuejs.org/,0,2,TRUE,0
-Python,0 - Languages,1 - TRIAL,1 - Yes, 0 - Not Moved,https://www.python.org/,0,1,TRUE,0
-C# .NET,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/,0,0,TRUE,0
-Visual Basic .NET,0 - Languages,3 - HOLD,1 - Yes, 0 - Not Moved,https://learn.microsoft.com/en-us/dotnet/visual-basic/,0,3,TRUE,0
-Visual Basic 6,0 - Languages,3 - HOLD,1 - Yes, 0 - Not Moved,https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation,0,3,TRUE,0
-SQL,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://en.wikipedia.org/wiki/SQL,0,0,TRUE,0
-Gradle,0 - Languages,0 - ADOPT,1 - Yes, 0 - Not Moved,https://gradle.org/,0,0,TRUE,0
-Scala,0 - Languages,3 - HOLD,1 - Yes,-1 - Moved Out,https://www.scala-lang.org/,0,3,TRUE,-1
+Source code management - Revision control,0 - Continuous Integration,0 - ADOPT,1 - Yes, 1 - Moved In,,0,0,TRUE,1
+Source code management - Branching Strategy,0 - Continuous Integration,0 - ADOPT,1 - Yes, 1 - Moved In,,0,0,TRUE,1
+Source code management - Pull-request checklist,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Source code management - Peer review,0 - Continuous Integration,0 - ADOPT,1 - Yes,-1 - Moved Out,,0,0,TRUE,-1
+Source code management - Linting & style checking,0 - Continuous Integration,1 - TRIAL,1 - Yes, 1 - Moved In,,0,1,TRUE,1
+Source code management - Static code analysis,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Source code management - Dependency management,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Source code management - Library management,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Source code management - License auditing,0 - Continuous Integration,2 - ASSESS,1 - Yes, 0 - Not Moved,,0,2,TRUE,0
+Database automation - Backup and restore,2 - Platform Components,1 - TRIAL,1 - Yes, 0 - Not Moved,,2,1,TRUE,0
+Database automation - Test data management,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Database automation - Data governance,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Database automation - Archiving,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Database automation - Storage management,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Database automation - Migrations,2 - Platform Components,1 - TRIAL,1 - Yes, 0 - Not Moved,,2,1,TRUE,0
+Continuous integration - Code merging,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Continuous integration - Automated builds,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Continuous integration - Build management & reporting,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Continuous integration - Deployment management,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Continuous integration - Artifact management,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Continuous integration - Packaging,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Automated testing - Mocking strategy,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Automated testing - Unit testing,0 - Continuous Integration,0 - ADOPT,1 - Yes, 0 - Not Moved,,0,0,TRUE,0
+Automated testing - Functional testing,0 - Continuous Integration,1 - TRIAL,1 - Yes, 0 - Not Moved,,0,1,TRUE,0
+Automated testing - Integration testing,0 - Continuous Integration,1 - TRIAL,1 - Yes, 0 - Not Moved,,0,1,TRUE,0
+Automated testing - End-to-end testing,0 - Continuous Integration,2 - ASSESS,1 - Yes, 0 - Not Moved,,0,2,TRUE,0
+Automated testing - Performance testing,0 - Continuous Integration,1 - TRIAL,1 - Yes, 0 - Not Moved,,0,1,TRUE,0
+Automated testing - Security testing,0 - Continuous Integration,1 - TRIAL,1 - Yes, 0 - Not Moved,,0,1,TRUE,0
+Configuration management - Cloud provisioning (IaC),2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Configuration management - Desired state configuration,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Configuration management - Secret management,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Configuration management - Scale plans,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Configuration management - Service registry / discoverability,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Configuration management - Service configuration,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Continuous delivery - Immutable artifact pipelines,1 - Continuous Delivery,0 - ADOPT,1 - Yes, 0 - Not Moved,,1,0,TRUE,0
+Continuous delivery - Issue tracking,1 - Continuous Delivery,1 - TRIAL,1 - Yes, 0 - Not Moved,,1,1,TRUE,0
+Continuous delivery - Environment management,1 - Continuous Delivery,0 - ADOPT,1 - Yes, 0 - Not Moved,,1,0,TRUE,0
+Continuous delivery - Release management,1 - Continuous Delivery,2 - ASSESS,1 - Yes, 0 - Not Moved,,1,2,TRUE,0
+Continuous delivery - Feature flags,1 - Continuous Delivery,2 - ASSESS,1 - Yes, 0 - Not Moved,,1,2,TRUE,0
+Continuous delivery - Automation pipelines,1 - Continuous Delivery,2 - ASSESS,1 - Yes, 0 - Not Moved,,1,2,TRUE,0
+"Security - Authentication, authorisation and accounting","3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+"Security - Confidentiality, integrity, availability","3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Security - External security testing,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Security - Identity and access management,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Security - Cloud service controls,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Security - Code scanning,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Security - Dependency vulnerability scanning,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Security - Automated security testing,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Security - Engineer training,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Monitoring - Application performance monitoring,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Monitoring - Security information and event monitoring,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Monitoring - Log collection / aggregation,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Monitoring - Alerting,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Monitoring - Dashboarding,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Monitoring - Operational reporting,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Monitoring - Queries / investigations,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Monitoring - Real-time telemetry,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Monitoring - Recovery tracking,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Analytics - Management reporting,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Analytics - Operational insights,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Analytics - Trend identification,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Analytics - Log analysis,"3 - Monitoring, Security & Analytics",0 - ADOPT,1 - Yes, 0 - Not Moved,,3,0,TRUE,0
+Analytics - Root-cause analysis,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Analytics - Productivity indicators,"3 - Monitoring, Security & Analytics",1 - TRIAL,1 - Yes, 0 - Not Moved,,3,1,TRUE,0
+Analytics - Cost tracking and allocation,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Analytics - SLA/SLO compliance,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Analytics - Metrics,"3 - Monitoring, Security & Analytics",2 - ASSESS,1 - Yes, 0 - Not Moved,,3,2,TRUE,0
+Hosting platform - Immutable infrastructure,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Hosting platform - Continuous upgrades,2 - Platform Components,1 - TRIAL,1 - Yes, 0 - Not Moved,,2,1,TRUE,0
+Hosting platform - Health checks,2 - Platform Components,1 - TRIAL,1 - Yes, 0 - Not Moved,,2,1,TRUE,0
+Hosting platform - Auto-scaling,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Hosting platform - Quality of Service,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Hosting platform - Network management,2 - Platform Components,2 - ASSESS,1 - Yes, 0 - Not Moved,,2,2,TRUE,0
+Hosting platform - Failure detection and response,2 - Platform Components,1 - TRIAL,1 - Yes, 0 - Not Moved,,2,1,TRUE,0
+Hosting platform - Storage management,2 - Platform Components,0 - ADOPT,1 - Yes, 0 - Not Moved,,2,0,TRUE,0
+Hosting platform - Workflow,2 - Platform Components,1 - TRIAL,1 - Yes, 0 - Not Moved,,2,1,TRUE,0
+Hosting platform - Intrustion detection and prevention,2 - Platform Components,2 - ASSESS,1 - Yes, 0 - Not Moved,,2,2,TRUE,0
+Hosting platform - Data loss prevention,2 - Platform Components,2 - ASSESS,1 - Yes, 0 - Not Moved,,2,2,TRUE,0
